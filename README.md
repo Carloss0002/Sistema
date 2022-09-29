@@ -17,6 +17,7 @@
 - NPM Install, para instalar todas as Dependências
 - faça uma pasta services dentro do src
 - crie um novo arquivo chamado ' firebaseConnection.js '
+- neste arquivo coloque o seu projeto firebase, com firebase auth, firestore ativados.
 
 Agradeço sua contribuição e suas novas ideias, e se puder, me indica lá no seu trampo :joy:
 
